@@ -1,2 +1,1 @@
-This contains the evolutionar networks of SARS-CoV-2 and MTB datasets on the paper. The network can be visualized in Gephi (v0.10) with a force-directed layout.
-
+This contains the evolutionar networks of SARS-CoV-2 and MTB datasets on the paper. The network can be visualized in Gephi (v0.10) with a force-directed layout. Each node represents the core metahaplotype in the cluster, with node size reflecting the number of metahaplotypes in the cluster.
