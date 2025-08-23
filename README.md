@@ -109,7 +109,7 @@ bash scripts/get_mergema.sh
 
 ## Examples
 We provide an example input file samples_mutations.txt and its corresponding metadata samples_metadata.txt for 1000 SARS-CoV-2 sequence samples. 
-To help the users understand more about our preprocess part, we also provide the samples in ma and vcf format in the example foler, respectively. Tips: unzip the vcffiles.zip first.
+To help the users understand more about our preprocess part, we also provide the samples in ma and vcf format in the example foler, respectively. Tips: unzip the zip files first.
 
 
 ## Contact us
